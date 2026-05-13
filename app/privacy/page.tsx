@@ -27,6 +27,9 @@ export default function PrivacyPage() {
       <h2 className="text-xl font-bold mt-6 mb-2">
         利用目的
         <li>画像投稿</li>
+        <li>現場の異常報告や設備状況を共有する為写真を添付する機能で
+          写真を使用します。
+        </li>
       </h2>
 
       <ul className="list-disc pl-6">
