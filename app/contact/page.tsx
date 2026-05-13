@@ -11,7 +11,7 @@ export default function ContactPage() {
       </p>
 
       <p className="mt-4">
-        メール: Tomotaka111942@gmail.com
+        メール: tomotaka111942@gmail.com
       </p>
     </main>
   );
